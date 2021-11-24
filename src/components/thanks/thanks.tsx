@@ -1,4 +1,5 @@
 import { Result } from 'antd';
+import './thanks.css';
 
 const Thanks = (props: any) => {
 
